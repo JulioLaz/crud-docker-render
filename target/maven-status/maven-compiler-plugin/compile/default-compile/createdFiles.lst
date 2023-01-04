@@ -1,0 +1,6 @@
+com\nuevoCrud\crud_db_julio\service\PersonaService.class
+com\nuevoCrud\crud_db_julio\service\IPersonaService.class
+com\nuevoCrud\crud_db_julio\controller\Controller.class
+com\nuevoCrud\crud_db_julio\repository\PersonaRepository.class
+com\nuevoCrud\crud_db_julio\CrudDbJulioApplication.class
+com\nuevoCrud\crud_db_julio\model\Persona.class
